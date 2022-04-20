@@ -2,7 +2,10 @@
 ___
 ### The basic structure has been setup for a to-do list. This is what is left to do:
 ___
-
+#### Finished Task Screenshot
+![todoImage](public\2022-04-20.png)
+___
+#### Set up Instructions: 
 - Finish setting up state for the text input
 - Set state of list of tasks when submitting a new task
 - Display list of tasks using the TaskCard component
